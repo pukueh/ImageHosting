@@ -1,1 +1,1 @@
-# ImagineHosting
+# ImageHosting
